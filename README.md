@@ -4,7 +4,7 @@
 
 ## Good Case
 원본
-![0276_07](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/7d98dbeb-bd13-4fba-a086-61cc8f85b5f7)
+<img src = "https://github.com/st-min/Photo-to-Cartoon/assets/70586865/7d98dbeb-bd13-4fba-a086-61cc8f85b5f7" width="50%" height="50%"/>
 
 
 만화풍
@@ -18,8 +18,13 @@
 
 
 ## Bad Case
-![0277_01](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/c4fc042c-8fc7-49a3-8793-869fcefa1498)
-![0277_01_cartoon](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/f61d5861-a550-43f7-91c5-5051b7792443)
+![0276_13](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/b23d725d-fb14-452e-867f-6594cc468440)
+![0276_13_cartoon](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/9e997857-84c4-430d-9a0f-d3f6a73d98cf)
+
+
+![0277_03](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/1f367092-da57-4c72-8c5b-85790a7b0c95)
+![0277_03_cartoon](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/51504455-a229-41fb-9f18-50224aec4e11)
+
 
 ![0277_10](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/02874e6c-5fb8-418f-a8eb-6bfe622489c3)
 ![0277_10_cartoon](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/652f9037-dab3-406d-ba10-6cbe395b7795)
