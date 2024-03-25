@@ -26,8 +26,10 @@
 필름 : Kodak Gold 200
 
 ### 동작 결과 및 한계
-![0277_05](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/b51e96c0-6173-44d1-a0e6-a5dbd5aebd0d)
-![0277_05_cartoon](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/4d7eb5bd-23b9-4110-aef7-7a94c33438ee)
+![qUdQM](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/beccbb3f-fc98-4162-9826-d90265f949db)
+
+![c2xwm](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/0c8f2781-cf9f-4fe7-8404-19df42b91908)
+
 
 노출이 고른 이미지, 대비가 뚜렷한 이미지에서 괜찮은 결과물을 얻을 수 있음.
 
