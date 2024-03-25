@@ -21,10 +21,10 @@
 
 
 ---
-### 영상에 사용한 카메라 및 필름 정보
+#### 영상에 사용한 카메라 및 필름 정보
 카메라 : 캐논 QL17 G3
 필름 : Kodak Gold 200
-
+---
 ### 동작 결과 및 한계
 
 <img width="1170" alt="Screenshot 2024-03-25 at 5 45 46 PM" src="https://github.com/st-min/Photo-to-Cartoon/assets/70586865/760cad7f-84c6-415b-9136-7bde1a0d54b5">
