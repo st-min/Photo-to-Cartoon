@@ -2,16 +2,22 @@
 내가 원하는 영상을 만화(cartoon) 스타일로 변환
 
 
-##Good Case
+## Good Case
 원본
 ![0276_07](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/7d98dbeb-bd13-4fba-a086-61cc8f85b5f7)
+
+
 만화풍
 ![0276_07_cartoon](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/0150fbc1-4b76-4d1a-97cd-3fcac171e6cf)
 
+
 ![0277_07](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/09b471ae-45a6-437f-af0e-d8502bb1cefc)
+
+
 ![0277_07_cartoon](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/1ac51fb3-beb7-468d-b586-f33e9008d62a)
 
-##Bad Case
+
+## Bad Case
 ![0277_01](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/c4fc042c-8fc7-49a3-8793-869fcefa1498)
 ![0277_01_cartoon](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/f61d5861-a550-43f7-91c5-5051b7792443)
 
@@ -20,7 +26,7 @@
 
 
 
-####영상에 사용한 카메라 및 필름 정보
+#### 영상에 사용한 카메라 및 필름 정보
 카메라 : 캐논 QL17 G3
 필름 : Kodak Gold 200
 
