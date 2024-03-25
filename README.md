@@ -1,40 +1,29 @@
-# Photo-to-Cartoon
 내가 원하는 영상을 만화(cartoon) 스타일로 변환
 
 
 ## Good Case
-원본
-<img src = "https://github.com/st-min/Photo-to-Cartoon/assets/70586865/7d98dbeb-bd13-4fba-a086-61cc8f85b5f7" width="50%" height="50%"/>
+
+원본 ![0276_07](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/7d98dbeb-bd13-4fba-a086-61cc8f85b5f7)
+만화 ![0276_07_cartoon](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/0150fbc1-4b76-4d1a-97cd-3fcac171e6cf)
 
 
-만화풍
-<img src = "https://github.com/st-min/Photo-to-Cartoon/assets/70586865/0150fbc1-4b76-4d1a-97cd-3fcac171e6cf" width="50%" height="50%"/>
-
-
-<img src = "https://github.com/st-min/Photo-to-Cartoon/assets/70586865/09b471ae-45a6-437f-af0e-d8502bb1cefc" width="50%" height="50%"/>
-
-
-<img src = "https://github.com/st-min/Photo-to-Cartoon/assets/70586865/1ac51fb3-beb7-468d-b586-f33e9008d62a" width="50%" height="50%"/>
+원본 ![0277_07](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/09b471ae-45a6-437f-af0e-d8502bb1cefc)
+만화 ![0277_07_cartoon](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/1ac51fb3-beb7-468d-b586-f33e9008d62a)
 
 
 ## Bad Case
-<img src = "https://github.com/st-min/Photo-to-Cartoon/assets/70586865/b23d725d-fb14-452e-867f-6594cc468440" width="50%" height="50%"/>
-<img src = "https://github.com/st-min/Photo-to-Cartoon/assets/70586865/9e997857-84c4-430d-9a0f-d3f6a73d98cf" width="50%" height="50%"/>
+원본 ![0277_03](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/e30348cc-ef66-47ac-a91e-1ec775f71bde)
+만화 ![0277_03_cartoon](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/4416c915-8753-4534-89df-eb84f67d378b)
 
+원본 ![0276_13](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/a7bbc10c-45f5-4885-957d-4bf1bc5fbac2)
+만화 ![0276_13_cartoon](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/a4e40fba-4276-44ae-a83e-20f16a8f4f63)
 
-<img src = "https://github.com/st-min/Photo-to-Cartoon/assets/70586865/1f367092-da57-4c72-8c5b-85790a7b0c95" width="50%" height="50%"/>
-<img src = "https://github.com/st-min/Photo-to-Cartoon/assets/70586865/51504455-a229-41fb-9f18-50224aec4e11" width="50%" height="50%"/>
-
-
-<img src = "https://github.com/st-min/Photo-to-Cartoon/assets/70586865/02874e6c-5fb8-418f-a8eb-6bfe622489c3" width="50%" height="50%"/>
-<img src = "https://github.com/st-min/Photo-to-Cartoon/assets/70586865/652f9037-dab3-406d-ba10-6cbe395b7795" width="50%" height="50%"/>
 
 
 
 #### 영상에 사용한 카메라 및 필름 정보
 카메라 : 캐논 QL17 G3
 필름 : Kodak Gold 200
-
 
 ### 동작 결과 및 한계
 ![0277_05](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/b51e96c0-6173-44d1-a0e6-a5dbd5aebd0d)
