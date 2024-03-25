@@ -8,26 +8,26 @@
 
 
 만화풍
-![0276_07_cartoon](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/0150fbc1-4b76-4d1a-97cd-3fcac171e6cf)
+<img src = "https://github.com/st-min/Photo-to-Cartoon/assets/70586865/0150fbc1-4b76-4d1a-97cd-3fcac171e6cf" width="50%" height="50%"/>
 
 
-![0277_07](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/09b471ae-45a6-437f-af0e-d8502bb1cefc)
+<img src = "https://github.com/st-min/Photo-to-Cartoon/assets/70586865/09b471ae-45a6-437f-af0e-d8502bb1cefc" width="50%" height="50%"/>
 
 
-![0277_07_cartoon](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/1ac51fb3-beb7-468d-b586-f33e9008d62a)
+<img src = "https://github.com/st-min/Photo-to-Cartoon/assets/70586865/1ac51fb3-beb7-468d-b586-f33e9008d62a" width="50%" height="50%"/>
 
 
 ## Bad Case
-![0276_13](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/b23d725d-fb14-452e-867f-6594cc468440)
-![0276_13_cartoon](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/9e997857-84c4-430d-9a0f-d3f6a73d98cf)
+<img src = "https://github.com/st-min/Photo-to-Cartoon/assets/70586865/b23d725d-fb14-452e-867f-6594cc468440" width="50%" height="50%"/>
+<img src = "https://github.com/st-min/Photo-to-Cartoon/assets/70586865/9e997857-84c4-430d-9a0f-d3f6a73d98cf" width="50%" height="50%"/>
 
 
-![0277_03](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/1f367092-da57-4c72-8c5b-85790a7b0c95)
-![0277_03_cartoon](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/51504455-a229-41fb-9f18-50224aec4e11)
+<img src = "https://github.com/st-min/Photo-to-Cartoon/assets/70586865/1f367092-da57-4c72-8c5b-85790a7b0c95" width="50%" height="50%"/>
+<img src = "https://github.com/st-min/Photo-to-Cartoon/assets/70586865/51504455-a229-41fb-9f18-50224aec4e11" width="50%" height="50%"/>
 
 
-![0277_10](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/02874e6c-5fb8-418f-a8eb-6bfe622489c3)
-![0277_10_cartoon](https://github.com/st-min/Photo-to-Cartoon/assets/70586865/652f9037-dab3-406d-ba10-6cbe395b7795)
+<img src = "https://github.com/st-min/Photo-to-Cartoon/assets/70586865/02874e6c-5fb8-418f-a8eb-6bfe622489c3" width="50%" height="50%"/>
+<img src = "https://github.com/st-min/Photo-to-Cartoon/assets/70586865/652f9037-dab3-406d-ba10-6cbe395b7795" width="50%" height="50%"/>
 
 
 
